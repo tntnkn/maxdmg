@@ -1,0 +1,2 @@
+# maxdmg
+Metagenerator for documents.
