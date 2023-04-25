@@ -9,8 +9,8 @@ The project consists of several independent parts:
 4. when end user reaches one of the end states via front end, [maxdmg_docgen](https://github.com/tntnkn/maxdmg_docgen) generates the final instance of the document based on the user's input and exact path that they followed during interaction with front end. These instances are made on the bases of a single template -- [maxdmg_back](https://github.com/tntnkn/maxdmg_back) remembers user's choices during session and then provides them to [maxdmg_docgen](https://github.com/tntnkn/maxdmg_docgen) to determine the final look of the document;
 5.  when interaction graphs grow large it becomes increasingly harder to maintain and develop a product -- [maxdmg_portal](https://github.com/tntnkn/maxdmg_portal) provides capabilities for visual presentation of a graph so teams responsible for developing exact generators may see all the branching and outputs of the generator.
 
-# Products powered by this project
+## Products powered by this project
 [Generator of lawsuits](https://t.me/ne_poedu_bot) with frontend into Telegram bot. 
 
-# Media about this project
+## Media about this project
 Please follow [the link](https://telegra.ph/ne-poedu-bot-media-list-04-25) to find what major media wrote about the project. 
